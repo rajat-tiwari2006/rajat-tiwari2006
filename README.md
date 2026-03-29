@@ -1,5 +1,5 @@
 # Hi, I'm Rajat Tiwari 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Design+Engineer+at+ArcelorMittal;Experienced+in+P%26ID%2C+PFD+%26+Plant+Layouts;Open+to+Opportunities+in+Mumbai;Exploring+AI+for+Engineering+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Design+Engineer+at+ArcelorMittal+;Expert+in+P%26ID%2C+PFD+%26+Plant+Layouts;Looking+for+Good+Opportunities;Exploring+AI+for+Engineering+Applications)](https://git.io/typing-svg)
 
 🚀 Design Engineer | AutoCAD | P&ID | PFD  
 📍 Kolkata | ArcelorMittal Design & Engineering Centre  
@@ -21,7 +21,7 @@
 - Utility Drawings  
 - AutoLISP (Basic)  
 - MS Excel
-- Python
+- Python(beginner Level)
 
 ---
 
