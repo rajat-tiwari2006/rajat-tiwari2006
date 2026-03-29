@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Rajat Tiwari 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Design+Engineer+at+ArcelorMittal;Experienced+in+P%26ID%2C+PFD+%26+Plant+Layouts;Open+to+Opportunities+in+Mumbai;Exploring+AI+for+Engineering+Applications)](https://git.io/typing-svg)
 
-<!--
-**rajat-tiwari2006/rajat-tiwari2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Design Engineer | AutoCAD | P&ID | PFD  
+📍 Kolkata | ArcelorMittal Design & Engineering Centre  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Design Engineer at ArcelorMittal Design & Engineering Centre  
+- Skilled in P&ID, PFD, Utility & Layout Drawings  
+- Experience in Industrial & Steel Plant Projects  
+- Currently learning AutoLISP for automation  
+
+---
+
+## 🛠️ Skills
+- AutoCAD  
+- P&ID / PFD  
+- Pipe Routing & Tagging (2D)  
+- Utility Drawings  
+- AutoLISP (Basic)  
+- MS Excel
+- Python
+
+---
+
+## 🏗️ Project Experience
+
+### 🔹 Industrial Plant Projects
+- Worked on AMNS Rajyapeta Project  
+- Contributed to Sinter Plant 2 & 3  
+- Supported international projects: AM Belval & AM Fos etc. 
+
+### 🔹 Work Done
+- Created PFD & P&ID drawings  
+- Developed utility and layout drawings  
+- Performed pipe routing and tagging(2D)
+- Managed multiple drawings under deadlines  
+
+---
+
+## 📈 What I’m Learning
+- AutoLISP for AutoCAD automation  
+- Pursuing BS in AI & Data Science from IIT Jodhpur  
+- Improving efficiency in engineering design  
+
+---
+
+## 📫 Contact Me
+- Email: tiwari.rajat2006@gmail.com  
+- Phone: +91-8860004808  
+- LinkedIn: https://www.linkedin.com/in/rajat-tiwari-111402307  
+
+---
+
+⭐ Design Engineer focused on industrial projects with interest in automation and future engineering technologies.
